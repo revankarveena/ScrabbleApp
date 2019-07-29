@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Hibernate"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="/home/veenarevankar/Downloads/postgresql-42.2.6.jar"/>
+	<classpathentry kind="lib" path="/home/veenarevankar/Downloads/hibernate-annotations-3.2.0.cr2.jar"/>
+	<classpathentry kind="lib" path="/home/veenarevankar/Downloads/jar_files/jpa-2.0.0.Final.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/5"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
